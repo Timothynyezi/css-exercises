@@ -1,0 +1,18 @@
+.first-class,
+.cooler,
+.another{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu", sans-serif;
+}
+#single{
+    color: blue;
+    font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#second-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font: bold;
+}
